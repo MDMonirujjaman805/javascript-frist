@@ -25,7 +25,7 @@ console .log (num);
 var total = 119;
 var Devi =5;
 console .log(total/Devi);
-// output 
+// output 23.8
 
 
 // Task-4.........
