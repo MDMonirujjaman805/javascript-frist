@@ -21,5 +21,17 @@ console .log (num);
 // output 71.04
 
 
+// Task-3.........
+var total = 119;
+var Devi =5;
+console .log(total/Devi);
+// output 
+
+
+// Task-4.........
+var a = isNaN(11);
+var a = isNaN(2-10);
+console .log( a);
+// output false
 
 
